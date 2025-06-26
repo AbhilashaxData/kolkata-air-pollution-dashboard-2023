@@ -4,7 +4,7 @@ This project is inspired by a research internship listing on the ISRO Careers Po
 While I do not yet work with AI, I recreated the concept using tools I know: **Excel** and **Power BI**.
 
 ---
-## 📌 Data Source: Simulated real-world structure inspired by OpenAQ, based on 10+ monitoring zones in Kolkata  
+## 📌 Data Source: Simulated real-world structure inspired by OpenAQ, based on 5+ monitoring zones in South Kolkata  
 
 ## 📊 What This Project Shows
 
